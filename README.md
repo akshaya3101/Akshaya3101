@@ -5,7 +5,6 @@
 👯 I’m looking to collaborate on innovative projects at the intersection of IT, Data Science, and Bioinformatics <br/>
 💬 Ask me about end-to-end data projects, bioinformatics workflows, Python apps, or breaking into data roles as a semi-technical student <br/>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/varadaakshaya/) or email me at varada.akshaya31@gmail.com
-⚡ Fun fact: I love turning messy biological data into meaningful insights—kind of like solving nature’s puzzles with code 🧬
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshaya._varada) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/varadaakshaya/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@akshaya.varada31) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Akshaya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Akshaya_varada) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshaya.varada31@gmail.com) 
