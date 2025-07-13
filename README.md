@@ -5,7 +5,6 @@
 👯 I’m looking to collaborate on innovative projects at the intersection of IT, Data Science, and Bioinformatics <br/>
 💬 Ask me about end-to-end data projects, bioinformatics workflows, Python apps, or breaking into data roles as a semi-technical student <br/>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/varadaakshaya/) or email me at varada.akshaya31@gmail.com
-😄 Pronouns: She/Her
 ⚡ Fun fact: I love turning messy biological data into meaningful insights—kind of like solving nature’s puzzles with code 🧬
 
 ## 🌐 Socials:
